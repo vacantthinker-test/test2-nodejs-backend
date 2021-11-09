@@ -1,0 +1,10 @@
+{
+  "name": "test2-nodejs-backend",
+  "scripts": {
+    "start": "node index.js",
+    "watch":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
